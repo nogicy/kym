@@ -34,7 +34,7 @@
   Platform : Eclipse, DBeaver <br>
   형상관리 : GitHub <br>   
 >  
->[프로젝트 상세 설명](https://github.com/doby98/HappyEver) 참고 < 깃허브 게임 주소작성
+>[프로젝트 상세 설명](https://github.com/MandarinePunch/NNgames#readme) 참고 
 
 ---
 
@@ -45,6 +45,6 @@
 >기술 스택:  
 >Java 8 
 >
->[프로젝트 상세 설명](https://github.com/doby98/Honker) 참고 < 수정할것
+>[프로젝트 상세 설명](주소) 참고 < 깃 정리후 진행할것
 
 ---
