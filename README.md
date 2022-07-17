@@ -45,6 +45,6 @@
 >기술 스택:  
 >Java 8 
 >
->[프로젝트 상세 설명](https://github.com/nogicy/Training_record) 참고 < 
+>[프로젝트 상세 설명](https://github.com/nogicy/Training_record) 참고 
 
 ---
