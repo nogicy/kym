@@ -45,6 +45,6 @@
 >기술 스택:  
 >Java 8 
 >
->[프로젝트 상세 설명](주소) 참고 < 깃 정리후 진행할것
+>[프로젝트 상세 설명](https://github.com/nogicy/Training_record) 참고 < 
 
 ---
