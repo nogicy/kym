@@ -35,6 +35,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
+++(mybatis 제이쿼리 ajax jsp 추가예정)
+
 <br>
 
 ## :pushpin: Projects
@@ -67,7 +69,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogicy)](https://github.com/nogicy/github-readme-stats)
 
