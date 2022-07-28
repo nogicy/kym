@@ -1,6 +1,11 @@
-# 김영민 포트폴리오 😄
+
+
+# 김영민 포트폴리오 😄                                    
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnogicy&count_bg=%23010101&title_bg=%23313030&icon=github.svg&icon_color=%23F9F9F9&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 >웹개발을 통해 편리한 사회를 만들고픈 엔지니어 김영민입니다.
->
+> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogicy)](https://github.com/nogicy/github-readme-stats)
 
 </br>
 
@@ -57,16 +62,13 @@
 >[프로젝트 상세 설명](https://github.com/nogicy/Training_record) 참고 
 
 ---
-#kim young min😄
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonjoa&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melonjoa)](https://solved.ac/melonjoa)
-
-
-
 
 ## ✔ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonjoa)](https://github.com/melonjoa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogicy)](https://github.com/nogicy/github-readme-stats)
+
+
