@@ -43,7 +43,7 @@
   Platform : Eclipse, DBeaver <br>
   형상관리 : GitHub <br>   
 >  
->[프로젝트 상세 설명](https://github.com/MandarinePunch/NNgames#readme) 참고 
+>[프로젝트 상세 설명](https://github.com/nogicy/NNGAME/blob/main/README.md) 참고 
 
 ---
 
