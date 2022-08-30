@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=긍정&fontSize=20)
 
 # 김영민 포트폴리오 😄                                    
 
@@ -47,10 +47,9 @@
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/mybatis-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-++(mybatis 제이쿼리 ajax jsp 추가예정)
-
+ajax
 </div>
 <br>
 
@@ -87,10 +86,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogicy)](https://github.com/nogicy/github-readme-stats)
-</div>
-
 ---
 
 ### 2. [운동기록프로그램]
@@ -115,3 +110,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogicy)](https://github.com/nogicy/github-readme-stats)
 </div>
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
