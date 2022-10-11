@@ -107,6 +107,20 @@ ajax
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
+### 1. [Auction(Re)]
+>쇼핑몰 사이트 ui의 불편함을 해소하고 보다 사용자에게 편리한 기능을 추가하여 편의를 제공하기위한 취지로 개발 (팀 프로젝트)  
+>개발 기간: 2022. 8. 30.~2022 개발중. .  
+>  
+>기술 스택:  
+> Front : HTML5, CSS, JS, jQuery, Bootstrap <br>
+  Back : Java, JSP, ORACLE DB, myBatis <br>
+  Platform : Eclipse, DBeaver <br>
+  형상관리 : GitHub <br>   
+>  
+>[프로젝트 상세 설명](https://github.com/nogicy/NNGAME/blob/main/README.md) 참고 
+
+## ✔ Tools
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogicy)](https://github.com/nogicy/github-readme-stats)
 </div>
 
